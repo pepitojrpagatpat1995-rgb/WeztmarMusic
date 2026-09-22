@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Weztmar Music",
+    "slug": "weztmar-music",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.weztmar.music",
+      "permissions": [
+        "READ_MEDIA_AUDIO",
+        "READ_MEDIA_IMAGES"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.weztmar.music"
+    }
+  }
+}
